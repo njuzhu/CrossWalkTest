@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrossWalkTest.iml" filepath="$PROJECT_DIR$/CrossWalkTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crosswalk-webview-14.43.343.23-arm/crosswalk-webview-14.43.343.23-arm.iml" filepath="$PROJECT_DIR$/crosswalk-webview-14.43.343.23-arm/crosswalk-webview-14.43.343.23-arm.iml" />
+    </modules>
+  </component>
+</project>

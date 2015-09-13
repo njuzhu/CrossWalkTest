@@ -1,0 +1,2 @@
+include ':app'
+include ':crosswalk-webview-14.43.343.23-arm'
